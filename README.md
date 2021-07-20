@@ -1,18 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+- 🔭 I’m currently working as a back-end developer with Ruby [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby")](https://www.ruby-lang.org)
+- 🌱 I occasionally learn Python 🐍
+- ☕️ I mainly drink coffee by day & beers by night 🍻
+
+
+### And now, here is a lil' snake who will happily eat my hard work of the year
 
 ![snake gif](https://github.com/Tao-Galasse/Tao-Galasse/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**Tao-Galasse/Tao-Galasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
