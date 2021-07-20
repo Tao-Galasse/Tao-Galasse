@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake gif](https://github.com/Tao-Galasse/Tao-Galasse/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Tao-Galasse/Tao-Galasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
