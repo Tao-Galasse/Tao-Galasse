@@ -7,6 +7,8 @@
 
 ![Tao's GitHub stats](https://github-readme-stats.vercel.app/api?username=tao-galasse&count_private=true&show_icons=true&theme=merko)
 
+![Tao's GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tao-galasse&theme=solarized_dark)
+
 
 ### And now, here is a lil' snake who will happily eat my hard work of the year
 
