@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Retrieve repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Generate the snake
         uses: Platane/snk@v3.1
         id: snake-gif
